@@ -1,2 +1,2 @@
 # 3it-RN
-3it React Native
+primero npm install y luego npm start para verlo con la app de expo go en cualquier dispositivo mobile
